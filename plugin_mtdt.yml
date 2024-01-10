@@ -1,0 +1,7 @@
+Plugin_Name: my_first_plugin # a Plugin name
+Plugin_id: MY_FIRST_PLUGIN
+Plugin_Version: 0.0.1 # a Plugin version
+Plugin_author: Luka # Author
+Plugin_desc: a Small Plugin # try to make description small as possible
+Plugin_license: MIT License
+Plugin_resources: github.com/lukaislearningrightnow/documentation # a link to external resources of the plugin
